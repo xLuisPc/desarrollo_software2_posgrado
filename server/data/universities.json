@@ -1,0 +1,7443 @@
+[
+  {
+    "name": "Antonio Nariño University",
+    "domains": [
+      "uan.edu.co"
+    ],
+    "web_pages": [
+      "https://uan.edu.co/"
+    ],
+    "country": "Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null
+  },
+  {
+    "name": "Universidad Técnica Federico Santa María",
+    "domains": [
+      "usm.cl"
+    ],
+    "web_pages": [
+      "https://usm.cl/"
+    ],
+    "country": "Chile",
+    "alpha_two_code": "CL",
+    "state-province": null
+  },
+  {
+    "web_pages": [
+      "http://www.atlantida.edu.ar/"
+    ],
+    "name": "Universidad Atlántida Argentina",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "atlantida.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.austral.edu.ar/"
+    ],
+    "name": "Universidad Austral Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "austral.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.caece.edu.ar/"
+    ],
+    "name": "Universidad CAECE, Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "caece.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://ucema.edu.ar/"
+    ],
+    "name": "Universidad del CEMA",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "ucema.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.iese.edu.ar/"
+    ],
+    "name": "Instituto de Enseñanza Superior del Ejército",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "iese.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.inun.edu.ar/"
+    ],
+    "name": "Instituto Universitario de Estudios Navales y Marítimos",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "inun.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.itba.edu.ar/"
+    ],
+    "name": "Instituto Tecnológico de Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "itba.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.iua.edu.ar/"
+    ],
+    "name": "Instituto Universitario Aeronáutico",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "iua.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://iucs.uncoma.edu.ar/"
+    ],
+    "name": "Instituto Universitario de Ciencias de la Salud - Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "iucs.uncoma.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.una.edu.ar/"
+    ],
+    "name": "Universidad Nacional de las Artes",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "una.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.kennedy.edu.ar/"
+    ],
+    "name": "Universidad Argentina \"John F. Kennedy\"",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "kennedy.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.maimonides.edu.ar/"
+    ],
+    "name": "Universidad Maimónides",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "maimonides.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.mdp.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Mar del Plata",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "mdp.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.palermo.edu/"
+    ],
+    "name": "Universidad de Palermo",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "palermo.edu"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.salvador.edu.ar/"
+    ],
+    "name": "Universidad del Salvador",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "salvador.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uade.edu.ar/"
+    ],
+    "name": "Universidad Argentina de la Empresa",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "uade.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uader.edu.ar/"
+    ],
+    "name": "Universidad Autónoma de Entre Ríos",
+    "alpha_two_code": "AR",
+    "state-province": "Entre Ríos",
+    "domains": [
+      "uader.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uapar.edu/"
+    ],
+    "name": "Universidad Adventista del Plata",
+    "alpha_two_code": "AR",
+    "state-province": "Entre Ríos",
+    "domains": [
+      "uapar.edu"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uba.ar/"
+    ],
+    "name": "Universidad de Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "uba.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ub.edu.ar/"
+    ],
+    "name": "Universidad de Belgrano",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "ub.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ubp.edu.ar/"
+    ],
+    "name": "Universidad Blas Pascal",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "ubp.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uca.edu.ar/"
+    ],
+    "name": "Universidad Católica Argentina Santa Maria de los Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "uca.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ucalp.edu.ar/"
+    ],
+    "name": "Universidad Católica de La Plata",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "ucalp.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ucasal.net/"
+    ],
+    "name": "Universidad Católica de Salta",
+    "alpha_two_code": "AR",
+    "state-province": "Salta",
+    "domains": [
+      "ucasal.net"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uccor.edu.ar/"
+    ],
+    "name": "Universidad Católica de Córdoba",
+    "alpha_two_code": "AR",
+    "state-province": "Córdoba",
+    "domains": [
+      "uccor.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uccuyo.edu.ar/"
+    ],
+    "name": "Universidad Católica de Cuyo",
+    "alpha_two_code": "AR",
+    "state-province": "Mendoza",
+    "domains": [
+      "uccuyo.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ucel.edu.ar/"
+    ],
+    "name": "Universidad del Centro Educativo Latinoamericano Rosario",
+    "alpha_two_code": "AR",
+    "state-province": "Santa Fe",
+    "domains": [
+      "ucel.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uces.edu.ar/"
+    ],
+    "name": "Universidad de Ciencias Empresariales y Sociales",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "uces.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uch.edu.ar/"
+    ],
+    "name": "Universidad Champagnat",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "uch.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ucine.edu.ar/"
+    ],
+    "name": "Universidad del Cine - Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "ucine.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ucongres.edu.ar/"
+    ],
+    "name": "Universidad de Congreso",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "ucongres.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ucp.edu.ar/"
+    ],
+    "name": "Universidad de la Cuenca del Plata",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "ucp.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ucse.edu.ar/"
+    ],
+    "name": "Universidad Católica de Santiago del Estero",
+    "alpha_two_code": "AR",
+    "state-province": "Santiago Del Estero",
+    "domains": [
+      "ucse.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ucsf.edu.ar/"
+    ],
+    "name": "Universidad Católica de Santa Fe",
+    "alpha_two_code": "AR",
+    "state-province": "Santa Fe",
+    "domains": [
+      "ucsf.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ucu.edu.ar/"
+    ],
+    "name": "Universidad de Concepción del Uruguay",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "ucu.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uda.edu.ar/"
+    ],
+    "name": "Universidad del Aconcagua",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "uda.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.udemm.edu.ar/"
+    ],
+    "name": "Universidad de la Marina Mercante",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "udemm.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.udesa.edu.ar/"
+    ],
+    "name": "Universidad de San Andrés",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "udesa.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uesiglo21.edu.ar/"
+    ],
+    "name": "Universidad Empresarial Siglo 21",
+    "alpha_two_code": "AR",
+    "state-province": "Córdoba",
+    "domains": [
+      "uesiglo21.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ufasta.edu.ar/"
+    ],
+    "name": "Universidad de la Fraternidad de Agrupaciones Santo Tomás de Aquino (FASTA)",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "ufasta.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uflo.edu.ar/"
+    ],
+    "name": "Universidad de Flores - Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "uflo.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.umaza.edu.ar/"
+    ],
+    "name": "Universidad \"Juan Agustín Maza\"",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "umaza.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.um.edu.ar/"
+    ],
+    "name": "Universidad de Mendoza",
+    "alpha_two_code": "AR",
+    "state-province": "Mendoza",
+    "domains": [
+      "um.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.umsa.edu.ar/"
+    ],
+    "name": "Universidad del Museo Social Argentino",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "umsa.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unam.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Misiones",
+    "alpha_two_code": "AR",
+    "state-province": "Misiones",
+    "domains": [
+      "unam.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unca.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Catamarca",
+    "alpha_two_code": "AR",
+    "state-province": "Catamarca",
+    "domains": [
+      "unca.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unc.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Córdoba",
+    "alpha_two_code": "AR",
+    "state-province": "Córdoba",
+    "domains": [
+      "unc.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uncoma.edu.ar/"
+    ],
+    "name": "Universidad Nacional del Comahue",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "uncoma.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uncu.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Cuyo",
+    "alpha_two_code": "AR",
+    "state-province": "Mendoza",
+    "domains": [
+      "uncu.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uner.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Entre Ríos",
+    "alpha_two_code": "AR",
+    "state-province": "Entre Ríos",
+    "domains": [
+      "uner.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unf.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Formosa",
+    "alpha_two_code": "AR",
+    "state-province": "Formosa",
+    "domains": [
+      "unf.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.ungs.edu.ar/"
+    ],
+    "name": "Universidad Nacional de General Sarmiento",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "ungs.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unibo.edu.ar/"
+    ],
+    "name": "Universidad de Bologna - Representación en Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "unibo.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unicen.edu.ar/"
+    ],
+    "name": "Universidad Nacional del Centro de la Provincia de Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unicen.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unimoron.edu.ar/"
+    ],
+    "name": "Universidad de Morón",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unimoron.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.universidadnotarial.edu.ar/"
+    ],
+    "name": "Universidad Notarial Argentina",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "universidadnotarial.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.universidad-policial.edu.ar/"
+    ],
+    "name": "Instituto Universitario de la Policía Federal",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "universidad-policial.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unju.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Jujuy",
+    "alpha_two_code": "AR",
+    "state-province": "Jujuy",
+    "domains": [
+      "unju.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unla.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Lanús",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unla.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unlam.edu.ar/"
+    ],
+    "name": "Universidad Nacional de La Matanza",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unlam.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unlar.edu.ar/"
+    ],
+    "name": "Universidad Nacional de La Rioja",
+    "alpha_two_code": "AR",
+    "state-province": "La Rioja",
+    "domains": [
+      "unlar.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unl.edu.ar/"
+    ],
+    "name": "Universidad Nacional del Litoral",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "unl.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unlpam.edu.ar/"
+    ],
+    "name": "Universidad Nacional de La Pampa",
+    "alpha_two_code": "AR",
+    "state-province": "La Pampa",
+    "domains": [
+      "unlpam.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unlp.edu.ar/"
+    ],
+    "name": "Universidad Nacional de La Plata",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unlp.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unlu.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Luján",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unlu.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unlz.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Lomas de Zamora",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unlz.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unne.edu.ar/"
+    ],
+    "name": "Universidad Nacional del Nordeste",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "unne.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unnoba.edu.ar/"
+    ],
+    "name": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "unnoba.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unpa.edu.ar/"
+    ],
+    "name": "Universidad Nacional de la Patagonia Austral",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "unpa.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unp.edu.ar/"
+    ],
+    "name": "Universidad Nacional de la Patagonia \"San Juan Bosco\"",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "unp.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unq.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Quilmes",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unq.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unrc.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Río Cuarto",
+    "alpha_two_code": "AR",
+    "state-province": "Córdoba",
+    "domains": [
+      "unrc.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unr.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Rosario",
+    "alpha_two_code": "AR",
+    "state-province": "Santa Fé",
+    "domains": [
+      "unr.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unsa.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Salta",
+    "alpha_two_code": "AR",
+    "state-province": "Salta",
+    "domains": [
+      "unsa.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unsam.edu.ar/"
+    ],
+    "name": "Universidad Nacional de General San Martín",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unsam.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.uns.edu.ar/"
+    ],
+    "name": "Universidad Nacional del Sur",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "uns.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unse.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Santiago del Estero",
+    "alpha_two_code": "AR",
+    "state-province": "Santiago Del Estero",
+    "domains": [
+      "unse.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unsj.edu.ar/"
+    ],
+    "name": "Universidad Nacional de San Juan",
+    "alpha_two_code": "AR",
+    "state-province": "San Juan",
+    "domains": [
+      "unsj.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unsl.edu.ar/"
+    ],
+    "name": "Universidad Nacional de San Luis",
+    "alpha_two_code": "AR",
+    "state-province": "San Luis",
+    "domains": [
+      "unsl.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unsta.edu.ar/"
+    ],
+    "name": "Universidad del Norte \"Santo Tomás de Aquino\"",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "unsta.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.unt.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Tucumán",
+    "alpha_two_code": "AR",
+    "state-province": "Tucumán",
+    "domains": [
+      "unt.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.untref.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Tres de Febrero",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "untref.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.utdt.edu/"
+    ],
+    "name": "Universidad Torcuato di Tella",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "utdt.edu"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.utn.edu.ar/"
+    ],
+    "name": "Universidad Tecnológica Nacional",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "utn.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://uai.edu.ar/"
+    ],
+    "name": "Universidad Abierta Interamericana",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "uai.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://www.unvm.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Villa María",
+    "alpha_two_code": "AR",
+    "state-province": null,
+    "domains": [
+      "unvm.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://www.undec.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Chilecito",
+    "alpha_two_code": "AR",
+    "state-province": "La Rioja",
+    "domains": [
+      "undec.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://iugna.edu.ar/"
+    ],
+    "name": "Instituto Universitario Gendarmería Nacional Argentina",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "iugna.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://iusm.edu.ar/"
+    ],
+    "name": "Instituto Universitario de Seguridad Marítima",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "iusm.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://www.unrn.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Río Negro",
+    "alpha_two_code": "AR",
+    "state-province": "Río Negro",
+    "domains": [
+      "unrn.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://uncaus.edu.ar/"
+    ],
+    "name": "Universidad Nacional del Chaco Austral",
+    "alpha_two_code": "AR",
+    "state-province": "Chaco",
+    "domains": [
+      "uncaus.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://www.unm.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Moreno",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unm.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://www.unvime.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Villa Mercedes",
+    "alpha_two_code": "AR",
+    "state-province": "San Luis",
+    "domains": [
+      "unvime.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://undav.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Avellaneda",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "undav.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://uno.edu.ar/"
+    ],
+    "name": "Universidad Nacional del Oeste",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "uno.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://untdf.edu.ar/"
+    ],
+    "name": "Universidad Nacional del Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "alpha_two_code": "AR",
+    "state-province": "Tierra del Fuego",
+    "domains": [
+      "untdf.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://unaj.edu.ar/"
+    ],
+    "name": "Universidad Nacional Arturo Jauretche",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unaj.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://unpaz.edu.ar/"
+    ],
+    "name": "Universidad Nacional de José Clemente Paz",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unpaz.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://unlc.edu.ar/"
+    ],
+    "name": "Universidad Nacional de los Comechingones",
+    "alpha_two_code": "AR",
+    "state-province": "San Luis",
+    "domains": [
+      "unlc.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://undef.edu.ar/"
+    ],
+    "name": "Universidad de la Defensa Nacional",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "undef.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://unahur.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Hurlingham",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unahur.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://unraf.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Rafaela",
+    "alpha_two_code": "AR",
+    "state-province": "Santa Fe",
+    "domains": [
+      "unraf.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://unau.edu.ar/"
+    ],
+    "name": "Universidad Nacional del Alto Uruguay",
+    "alpha_two_code": "AR",
+    "state-province": "Misiones",
+    "domains": [
+      "unau.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://unab.edu.ar/"
+    ],
+    "name": "Universidad Nacional Guillermo Brown",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unab.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://unipe.edu.ar/"
+    ],
+    "name": "Universidad Pedagógica Nacional",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "unipe.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://unsada.edu.ar/"
+    ],
+    "name": "Universidad Nacional San Antonio de Areco",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unsada.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://undelta.edu.ar/"
+    ],
+    "name": "Universidad Nacional del Delta",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "undelta.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://unpilar.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Pilar",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "unpilar.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://web.upe.edu.ar/"
+    ],
+    "name": "Universidad Provincial de Ezeiza",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "upe.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://unrt.edu.ar/"
+    ],
+    "name": "Universidad Nacional de Río Tercero",
+    "alpha_two_code": "AR",
+    "state-province": "Córdoba",
+    "domains": [
+      "unrt.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://cemic.edu.ar/"
+    ],
+    "name": "Instituto Universitario CEMIC",
+    "alpha_two_code": "AR",
+    "state-province": "Córdoba",
+    "domains": [
+      "cemic.edu.ar",
+      "iuc.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://ugd.edu.ar/"
+    ],
+    "name": "Universidad Gastón Dachary",
+    "alpha_two_code": "AR",
+    "state-province": "Misiones",
+    "domains": [
+      "ugd.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://iunir.edu.ar/"
+    ],
+    "name": "Instituto Universitario Italiano de Rosario",
+    "alpha_two_code": "AR",
+    "state-province": "Santa Fe",
+    "domains": [
+      "iunir.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://favaloro.edu.ar/"
+    ],
+    "name": "Universidad Favaloro",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "favaloro.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://uean.edu.ar/"
+    ],
+    "name": "Universidad Escuela Argentina de Negocios",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "uean.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://ugr.edu.ar/"
+    ],
+    "name": "Universidad del Gran Rosario",
+    "alpha_two_code": "AR",
+    "state-province": "Santa Fe",
+    "domains": [
+      "ugr.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://isalud.edu.ar/"
+    ],
+    "name": "Universidad ISALUD",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "isalud.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://instituto.hospitalitaliano.edu.ar/"
+    ],
+    "name": "Universidad Hospital Italiano",
+    "alpha_two_code": "AR",
+    "state-province": "Ciudad Autónoma de Buenos Aires",
+    "domains": [
+      "hospitalitaliano.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://uspt.edu.ar/"
+    ],
+    "name": "Universidad de San Pablo - Tucumán",
+    "alpha_two_code": "AR",
+    "state-province": "Tucumán",
+    "domains": [
+      "uspt.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://iucbc.edu.ar/"
+    ],
+    "name": "Instituto Universitario de Ciencias Biomédicas de Córdoba",
+    "alpha_two_code": "AR",
+    "state-province": "Córdoba",
+    "domains": [
+      "iucbc.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "https://eut.edu.ar/"
+    ],
+    "name": "Escuela Universitaria de Teología \"Fundación Cardenal Pironio\"",
+    "alpha_two_code": "AR",
+    "state-province": "Buenos Aires",
+    "domains": [
+      "eut.edu.ar"
+    ],
+    "country": "Argentina"
+  },
+  {
+    "web_pages": [
+      "http://www.academia.cl/"
+    ],
+    "name": "Universidad Academia de Humanismo Cristiano",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "academia.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.arquitecturaucv.cl/"
+    ],
+    "name": "Escuela de Arquitectura y Diseño",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "arquitecturaucv.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "https://www.uc.cl/"
+    ],
+    "name": "Pontificia Universidad Catolica de Chile",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uc.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uach.cl/"
+    ],
+    "name": "Universidad Austral de Chile",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uach.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uaconcagua.cl/"
+    ],
+    "name": "Universidad de Aconcagua",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uaconcagua.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uahurtado.cl/"
+    ],
+    "name": "Universidad Alberto Hurtado",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uahurtado.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uai.cl/"
+    ],
+    "name": "Universidad Adolfo Ibáñez",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uai.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uamericas.cl/"
+    ],
+    "name": "Universidad de Las Américas",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uamericas.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uandes.cl/"
+    ],
+    "name": "Universidad de Los Andes",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uandes.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uantof.cl/"
+    ],
+    "name": "Universidad de Antofagasta",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uantof.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uas.cl/"
+    ],
+    "name": "Universidad Autonoma del Sur",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uas.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ubiobio.cl/"
+    ],
+    "name": "Universidad del Bío-Bío",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ubiobio.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ubohiggins.cl/"
+    ],
+    "name": "Universidad Bernardo O'Higgins",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ubohiggins.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ubolivariana.cl/"
+    ],
+    "name": "Universidad Bolivariana",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ubolivariana.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ubritanica.cl/"
+    ],
+    "name": "Universidad Chileno Britanica de Cultura",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ubritanica.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ucentral.cl/"
+    ],
+    "name": "Universidad Central",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ucentral.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ucervantes.cl/"
+    ],
+    "name": "Universidad Miguel de Cervantes",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ucervantes.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uchile.cl/"
+    ],
+    "name": "Universidad de Chile",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uchile.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ucinf.cl/"
+    ],
+    "name": "Universidad de Ciencias de la Informatica",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ucinf.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ucm.cl/"
+    ],
+    "name": "Universidad Catolica del Maule",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ucm.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ucn.cl/"
+    ],
+    "name": "Universidad Catolica del Norte",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ucn.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ucsc.cl/"
+    ],
+    "name": "Universidad Catolica de La Santísima Concepción",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ucsc.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ucsh.cl/"
+    ],
+    "name": "Universidad Católica Cardenal Raúl Silva Henríquez",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ucsh.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uctem.cl/"
+    ],
+    "name": "Universidad Catolica de Temuco",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uctem.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ucv.cl/"
+    ],
+    "name": "Universidad Catolica de Valparaiso",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ucv.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uda.cl/"
+    ],
+    "name": "Universidad de Atacama",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uda.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.udec.cl/"
+    ],
+    "name": "Universidad de Concepcion",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "udec.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.udelmar.cl/"
+    ],
+    "name": "Universidad del Mar",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "udelmar.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.udesarrollo.cl/"
+    ],
+    "name": "Universidad del Desarrollo",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "udesarrollo.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.udp.cl/"
+    ],
+    "name": "Universidad Diego Portales",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "udp.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ufinis.cl/"
+    ],
+    "name": "Universidad Finis Terrae",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ufinis.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ufro.cl/"
+    ],
+    "name": "Universidad de La Frontera",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ufro.cl",
+      "ufromail.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ugm.cl/"
+    ],
+    "name": "Universidad Gabriela Mistral",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ugm.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uisek.cl/"
+    ],
+    "name": "Universidad International SEK, Santiago",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uisek.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ujso.cl/"
+    ],
+    "name": "Universidad José Santos Ossa",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ujso.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ulagos.cl/"
+    ],
+    "name": "Universidad de Los Lagos",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ulagos.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ulare.cl/"
+    ],
+    "name": "Universidad La Republica",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ulare.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.umag.cl/"
+    ],
+    "name": "Universidad de Magallanes",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "umag.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.umaritima.cl/"
+    ],
+    "name": "Universidad Maritima de Chile",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "umaritima.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.umayor.cl/"
+    ],
+    "name": "Universidad Mayor",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "umayor.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.umce.cl/"
+    ],
+    "name": "Universidad Metropolitana de Ciencias de la Educación",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "umce.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ume.cl/"
+    ],
+    "name": "Universidad Mariano Egaña",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ume.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.unab.cl/"
+    ],
+    "name": "Universidad Nacional Andrés Bello",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "unab.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.unachile.cl/"
+    ],
+    "name": "Universidad Adventista de Chile",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "unachile.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.unap.cl/"
+    ],
+    "name": "Universidad \"Arturo Prat\"",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "unap.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.unfa.cl/"
+    ],
+    "name": "Universidad Francisco de Aguirre",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "unfa.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uniacc.cl/"
+    ],
+    "name": "Universidad de Artes, Ciencias y Comunicación",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uniacc.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.unicit.cl/"
+    ],
+    "name": "Universidad Iberoamericana de Ciencias y Tecnologia",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "unicit.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.universidadarcis.cl/"
+    ],
+    "name": "Universidad Arcis",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "universidadarcis.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.upacifico.cl/"
+    ],
+    "name": "Universidad del Pacífico",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "upacifico.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.upa.cl/"
+    ],
+    "name": "Universidad de Playa Ancha de Ciencias de la Educacion",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "upa.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.usach.cl/"
+    ],
+    "name": "Universidad de Santiago de Chile",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "usach.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.usanandres.cl/"
+    ],
+    "name": "Universidad de San Andres",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "usanandres.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.userena.cl/"
+    ],
+    "name": "Universidad de La Serena",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "userena.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uss.cl/"
+    ],
+    "name": "Universidad San Sebastian",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uss.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.ust.cl/"
+    ],
+    "name": "Universidad Santo Tomás",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "ust.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uta.cl/"
+    ],
+    "name": "Universidad de Tarapacá",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uta.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.utalca.cl/"
+    ],
+    "name": "Universidad de Talca",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "utalca.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.utem.cl/"
+    ],
+    "name": "Universidad Tecnológica Metropolitana",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "utem.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.utfsm.cl/"
+    ],
+    "name": "Universidad Técnica \"Federico Santa María\"",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "utfsm.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uv.cl/"
+    ],
+    "name": "Universidad de Valparaiso",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uv.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uvipro.cl/"
+    ],
+    "name": "Universidad Tecnologica \"Vicente Perez Rosales\"",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uvipro.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.uvm.cl/"
+    ],
+    "name": "Universidad de Viña del Mar",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uvm.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "http://www.autonoma.edu.co/"
+    ],
+    "name": "Universidad Autónoma de Manizales",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "autonoma.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.bellasartes.edu.co/"
+    ],
+    "name": "Universidad Bellas Artes",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "bellasartes.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://conservatoriodeltolima.edu.co/"
+    ],
+    "name": "Conservatorio del Tolima",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "conservatoriodeltolima.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.cesa.edu.co/"
+    ],
+    "name": "Colegio de Estudios Superiores de Administración (CESA)",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "cesa.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ces.edu.co/"
+    ],
+    "name": "Universidad CES",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ces.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.cuao.edu.co/"
+    ],
+    "name": "Universidad Autónoma de Occidente",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "cuao.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.cuc.edu.co/"
+    ],
+    "name": "Corporación Universitaria de la Costa (UNICOSTA)",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "cuc.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.cui.edu.co/"
+    ],
+    "name": "Corporación Universitaria de Ibagué (CORUNIVERSITARIA)",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "cui.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.cutb.edu.co/"
+    ],
+    "name": "Corporación Universitaria Tecnológica de Bolivar",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "cutb.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.eafit.edu.co/"
+    ],
+    "name": "Universidad EAFIT",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "eafit.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ean.edu.co/"
+    ],
+    "name": "Escuela de Administración de Negocios",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ean.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ecci.edu.co/"
+    ],
+    "name": "Escuela Colombiana de Carreras Industriales",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ecci.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ecr.edu.co/"
+    ],
+    "name": "Fundacion Escuela Colombiana de Rehabiliación",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ecr.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.eia.edu.co/"
+    ],
+    "name": "Escuela de Ingeniería de Antioquia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "eia.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.esap.edu.co/"
+    ],
+    "name": "Escuela Superiore de Administración Pública",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "esap.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.escueladepolicia.edu.co/"
+    ],
+    "name": "Escuela de Policia \"General Santander\"",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "escueladepolicia.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.escuelaing.edu.co/"
+    ],
+    "name": "Escuela Colombiana de Ingeniería Julio Garavito",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "escuelaing.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.fuac.edu.co/"
+    ],
+    "name": "Universidad Autónoma de Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "fuac.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.funandi.edu.co/"
+    ],
+    "name": "Fundación Universitaria del Area Andina. Sede Pereira",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "funandi.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.funlam.edu.co/"
+    ],
+    "name": "Fundación Universitaria Luis Amigó",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "funlam.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.iberoamericana.edu.co/"
+    ],
+    "name": "Institución Universitaria Iberoamericana",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "iberoamericana.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.iceit.edu.co/"
+    ],
+    "name": "Centro de Estudios Investigación y Tecnología (CEIT)",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "iceit.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.icesi.edu.co/"
+    ],
+    "name": "Universidad ICESI",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "icesi.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.itm.edu.co/"
+    ],
+    "name": "Instituto Tecnológico Metropolitano",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "itm.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.iue.edu.co/"
+    ],
+    "name": "Institucion Universitaria de Envigado",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "iue.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.javeriana.edu.co/"
+    ],
+    "name": "Pontificia Universidad Javeriana",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "javeriana.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.lasalle.edu.co/"
+    ],
+    "name": "Universidad de La Salle",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "lasalle.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.pedagogica.edu.co/"
+    ],
+    "name": "Universidad Pedagogica Nacional",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "pedagogica.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.poligran.edu.co/"
+    ],
+    "name": "Politécnico Grancolombiano - Institución Universitaria",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "poligran.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.politecjic.edu.co/"
+    ],
+    "name": "Politécnico Columbiano \"Jaime Isaza Cadavid\"",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "politecjic.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.sanmartin.edu.co/"
+    ],
+    "name": "Fundación Universitaria San Martín",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "sanmartin.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uac.edu.co/"
+    ],
+    "name": "Universidad Autónoma del Caribe",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uac.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uam.edu.co/"
+    ],
+    "name": "Universidad Autónoma de Las Américas",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uam.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uamerica.edu.co/"
+    ],
+    "name": "Universidad de América Bogotá",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uamerica.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uanarino.edu.co/"
+    ],
+    "name": "Universidad Antonio Nariño",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uanarino.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ucaldas.edu.co/"
+    ],
+    "name": "Universidad de Caldas",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ucaldas.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ucatolica.edu.co/"
+    ],
+    "name": "Universidad Católica de Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ucatolica.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ucatolicamz.edu.co/"
+    ],
+    "name": "Universidad Católica de Manizales",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ucatolicamz.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ucauca.edu.co/"
+    ],
+    "name": "Universidad del Cauca",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ucauca.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ucc.edu.co/"
+    ],
+    "name": "Universidad Cooperativa de Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ucc.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ucentral.edu.co/"
+    ],
+    "name": "Universidad Central",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ucentral.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uceva.edu.co/"
+    ],
+    "name": "Universidad Central del Valle del Cauca",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uceva.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ucn.edu.co/"
+    ],
+    "name": "Universidad Católica del Norte",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ucn.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uco.edu.co/"
+    ],
+    "name": "Universidad Católica del Oriente",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uco.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ucpr.edu.co/"
+    ],
+    "name": "Universidad Católica Popular del Risaralda",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ucpr.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.udca.edu.co/"
+    ],
+    "name": "Universidad de Ciencias Aplicadas y Ambientales (UDCA)",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "udca.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.udea.edu.co/"
+    ],
+    "name": "Universidad de Antioquía",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "udea.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.udem.edu.co/"
+    ],
+    "name": "Universidad de Medellín",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "udem.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.udenar.edu.co/"
+    ],
+    "name": "Universidad de Nariño",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "udenar.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.udes.edu.co/"
+    ],
+    "name": "Corporación Universitaria de Santander (UDES)",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "udes.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.udistrital.edu.co/"
+    ],
+    "name": "Universidad Distrital \"Francisco José de Caldas\"",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "udistrital.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uexternado.edu.co/"
+    ],
+    "name": "Universidad Externado de Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uexternado.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ufps.edu.co/"
+    ],
+    "name": "Universidad Francisco de Paula Santander",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ufps.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ugrancolombia.edu.co/"
+    ],
+    "name": "Universidad La Gran Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ugrancolombia.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uis.edu.co/"
+    ],
+    "name": "Universidad Industrial de Santander",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uis.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.umanizales.edu.co/"
+    ],
+    "name": "Universidad de Manizales",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "umanizales.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.umariana.edu.co/"
+    ],
+    "name": "Universidad Mariana",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "umariana.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.umb.edu.co/"
+    ],
+    "name": "Fundación Universitaria Manuela Beltrán",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "umb.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.umng.edu.co/"
+    ],
+    "name": "Universidad Militar Nueva Granada",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "umng.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unab.edu.co/"
+    ],
+    "name": "Universidad Autónoma de Bucaramanga",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unab.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unac.edu.co/"
+    ],
+    "name": "Universidad Adventista de Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unac.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unad.edu.co/"
+    ],
+    "name": "Universidad Nacional Abierta y a Distancia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unad.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unal.edu.co/"
+    ],
+    "name": "Universidad Nacional de Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unal.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unaula.edu.co/"
+    ],
+    "name": "Universidad Autónoma Latinoamericana",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unaula.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unbosque.edu.co/"
+    ],
+    "name": "Universidad El Bosque",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unbosque.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uniamazonia.edu.co/"
+    ],
+    "name": "Universidad de La Amazonia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uniamazonia.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uniandes.edu.co/"
+    ],
+    "name": "Universidad de Los Andes",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uniandes.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uniatlantico.edu.co/"
+    ],
+    "name": "Universidad del Atlántico",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uniatlantico.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uniboyaca.edu.co/"
+    ],
+    "name": "Fundación Universitaria de Boyacá",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uniboyaca.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unicartagena.edu.co/"
+    ],
+    "name": "Universidad de Cartagena",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unicartagena.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unicesar.edu.co/"
+    ],
+    "name": "Universidad Popular del Cesar",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unicesar.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unicordoba.edu.co/"
+    ],
+    "name": "Universidad de Córdoba",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unicordoba.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uniguajira.edu.co/"
+    ],
+    "name": "Universidad de La Guajira",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uniguajira.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unilibre.edu.co/"
+    ],
+    "name": "Universidad Libre de Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unilibre.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unillanos.edu.co/"
+    ],
+    "name": "Universidad de Los Llanos",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unillanos.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unimagdalena.edu.co/"
+    ],
+    "name": "Universidad del Magdalena",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unimagdalena.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unimetro.edu.co/"
+    ],
+    "name": "Universidad Metropolitana",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unimetro.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unincca.edu.co/"
+    ],
+    "name": "Universidad INCCA de Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unincca.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uninorte.edu.co/"
+    ],
+    "name": "Universidad del Norte",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uninorte.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unipamplona.edu.co/"
+    ],
+    "name": "Universidad de Pamplona",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unipamplona.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unipaz.edu.co/"
+    ],
+    "name": "Instituto Universitario de La Paz",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unipaz.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unipiloto.edu.co/"
+    ],
+    "name": "Universidad Piloto de Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unipiloto.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uniquindio.edu.co/"
+    ],
+    "name": "Universidad del Quindío",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uniquindio.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unisabana.edu.co/"
+    ],
+    "name": "Universidad de La Sabana",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unisabana.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unisimonbolivar.edu.co/"
+    ],
+    "name": "Corporación Educativa Mayor del Desarrollo \"Simón Bolivar\"",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unisimonbolivar.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unisinucartagena.edu.co/"
+    ],
+    "name": "Universidad del Sinú",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unisinucartagena.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.unisucre.edu.co/"
+    ],
+    "name": "Universidad de Sucre",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "unisucre.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.univalle.edu.co/"
+    ],
+    "name": "Universidad del Valle del Cauca",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "univalle.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.upb.edu.co/"
+    ],
+    "name": "Universidad Pontificia Bolivariana",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "upb.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.uptc.edu.co/"
+    ],
+    "name": "Universidad Pedagógica y Tecnológica de Colombia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "uptc.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.urosario.edu.co/"
+    ],
+    "name": "Universidad del Rosario",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "urosario.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.usaca.edu.co/"
+    ],
+    "name": "Universidad Santiago de Cali",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "usaca.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.usb.edu.co/"
+    ],
+    "name": "Universidad de San Buenaventura",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "usb.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.usbmed.edu.co/"
+    ],
+    "name": "Universidad de San Buenaventura Medellin",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "usbmed.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.usergioarboleda.edu.co/"
+    ],
+    "name": "Universidad Sergio Arboleda",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "usergioarboleda.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.usta.edu.co/"
+    ],
+    "name": "Universidad Santo Tomás",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "usta.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.usurcolombia.com/"
+    ],
+    "name": "Universidad Surcolombiana",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "usurcolombia.com"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.utadeo.edu.co/"
+    ],
+    "name": "Universidad de Bogotá \"Jorge Tadeo Lozano\"",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "utadeo.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.utch.edu.co/"
+    ],
+    "name": "Universidad Tecnológica del Choco \"Diego Luis Cordoba\"",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "utch.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.ut.edu.co/"
+    ],
+    "name": "Universidad del Tolima",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "ut.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.utp.edu.co/"
+    ],
+    "name": "Universidad Tecnológica de Pereira",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "utp.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "http://www.anahuac.mx/"
+    ],
+    "name": "Universidad Anáhuac",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "anahuac.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://bajio.delasalle.edu.mx/"
+    ],
+    "name": "Universidad de La Salle, Bajío",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "bajio.delasalle.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.buap.mx/"
+    ],
+    "name": "Benemerita Universidad Autónoma de Puebla",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "buap.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.campusleon.ugto.mx/"
+    ],
+    "name": "Universidad de Guanajuato, Campus León",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "campusleon.ugto.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ceti.mx/"
+    ],
+    "name": "Centro de Enseñanza Técnica Industrial",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ceti.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.cetys.mx/"
+    ],
+    "name": "CETYS Universidad",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "cetys.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ceu.edu.mx/"
+    ],
+    "name": "Centro de Estudios Universitarios Monterrey",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ceu.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ceunix.com.mx/"
+    ],
+    "name": "Centro Universitario Ixtlahuaca",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ceunix.com.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ceux.mx/"
+    ],
+    "name": "Centro de Estudios Universitarios Xochicalco",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ceux.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.champagnat.edu.mx/"
+    ],
+    "name": "Universidad Champagnat",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "champagnat.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.chapingo.mx/"
+    ],
+    "name": "Universidad Autónoma de Chapingo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "chapingo.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.colmex.mx/"
+    ],
+    "name": "El Colegio de México",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "colmex.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.cuauhtemoc.edu.mx/"
+    ],
+    "name": "Universidad Cuauhtémoc",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "cuauhtemoc.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://cueyatl.uam.mx/"
+    ],
+    "name": "Universidad Autónoma Metropolitana - Xochimilco",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "cueyatl.uam.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.dgit.gob.mx/"
+    ],
+    "name": "Dirección General de Institutos Tecnológicos",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "dgit.gob.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ebc.mx/"
+    ],
+    "name": "Escuela Bancaria y Comercial",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ebc.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.enes.unam.mx/"
+    ],
+    "name": "Escuela Nacional de Estudios Superiores Unidad León",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "enes.unam.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.frayluca.edu.mx/"
+    ],
+    "name": "Universidad Fray Luca Paccioli",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "frayluca.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://hispano.edu.mx/"
+    ],
+    "name": "Universidad Hispanoamericana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "hispano.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.i.edu.mx/"
+    ],
+    "name": "Universidad Itaca",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "i.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ipn.edu.mx/"
+    ],
+    "name": "Instituto Politécnico Nacional",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ipn.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.itam.mx/"
+    ],
+    "name": "Instituto Tecnológico Autonómo de México",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itam.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ita.mx/"
+    ],
+    "name": "Instituto Tecnológico de Aguascalientes",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ita.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.itc.mx/"
+    ],
+    "name": "Instituto Tecnológico de Celaya",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itc.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.itdurango.edu.mx/"
+    ],
+    "name": "Instituto Tecnologico de Durango",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itdurango.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.tec.mx/"
+    ],
+    "name": "Tecnologico de Monterrey",
+    "alpha_two_code": "MX",
+    "state-province": "Nuevo Leon",
+    "domains": [
+      "tec.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.iteso.mx/"
+    ],
+    "name": "Instituto Tecnológico y de Estudios Superiores de Occidente",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "iteso.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.itleon.edu.mx/"
+    ],
+    "name": "Instituto Tecnológico de León",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itleon.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.itmina.edu.mx/"
+    ],
+    "name": "Instituto Tecnologico de Minatitlan",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itmina.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.itmorelia.edu.mx/"
+    ],
+    "name": "Instituto Tecnológico de Morelia",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itmorelia.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.itq.edu.mx/"
+    ],
+    "name": "Instituto Tecnológico de Querétaro",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itq.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.itslp.edu.mx/"
+    ],
+    "name": "Instituto Tecnológico de San Luis Potosí",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itslp.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.itson.mx/"
+    ],
+    "name": "Instituto Tecnológico de Sonora",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itson.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.iztapalapa.uam.mx/"
+    ],
+    "name": "Universidad Autónoma Metropolitana - Iztapalapa",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "iztapalapa.uam.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.lef.upn.mx/"
+    ],
+    "name": "Universidad Pedagógica Nacional, Unidad León",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "lef.upn.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.leon.uia.mx/"
+    ],
+    "name": "Universidad Iberoamericana, Campus León",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "leon.uia.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.uvp.mx/"
+    ],
+    "name": "Universidad del Valle de Puebla",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uvp.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.motolinia.com.mx/"
+    ],
+    "name": "Universidad Motolinía del Pedregal",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "motolinia.com.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.olmeca.edu.mx/"
+    ],
+    "name": "Universidad Olmeca",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "olmeca.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.poligto.edu.mx/"
+    ],
+    "name": "Politécnico de Guanajuato",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "poligto.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.reduaeh.mx/"
+    ],
+    "name": "Universidad Autónoma del Estado de Hidalgo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "reduaeh.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.reduaz.mx/"
+    ],
+    "name": "Universidad Autónoma de Zacatecas",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "reduaz.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.secupv.org/"
+    ],
+    "name": "Universidad Pedagógica Veracruzana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "secupv.org"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.tecbc.mx/"
+    ],
+    "name": "Tecnologico de Baja California, Universidad",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "tecbc.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.tepeyac.edu.mx/"
+    ],
+    "name": "Universidad del Tepeyac",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "tepeyac.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ties.com.mx/"
+    ],
+    "name": "Instituto de Estudios Superiores de la Sierra",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ties.com.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uaaan.mx/"
+    ],
+    "name": "Universidad Autónoma Agraria \"Antonio Narro\"",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uaaan.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uaa.mx:8001/"
+    ],
+    "name": "Universidad Autónoma de Aguascalientes",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uaa.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uabc.mx/"
+    ],
+    "name": "Universidad Autónoma de Baja California",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uabc.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uabcs.mx/"
+    ],
+    "name": "Universidad Autónoma de Baja California Sur",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uabcs.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uabjo.mx/"
+    ],
+    "name": "Universidad Autónoma \"Benito Juárez\" de Oaxaca",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uabjo.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uacam.mx/"
+    ],
+    "name": "Universidad Autónoma de Campeche",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uacam.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uach.mx/"
+    ],
+    "name": "Universidad Autónoma de Chihuahua",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uach.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://itsncg.edu.mx/"
+    ],
+    "name": "Instituto Tecnológico Superior de Nuevo Casas Grandes",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itsncg.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uacj.mx/"
+    ],
+    "name": "Universidad Autónoma de Ciudad Juárez",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uacj.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uacm.edu.mx/"
+    ],
+    "name": "Universidad Autónoma de la Ciudad de México",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uacm.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uadec.mx/"
+    ],
+    "name": "Universidad Autónoma de Coahuila",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uadec.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uad.edu.mx/"
+    ],
+    "name": "Universidad Autonoma de Durango",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uad.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uady.mx/"
+    ],
+    "name": "Universidad Autónoma de Yucatán",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uady.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uaed.edu.mx/"
+    ],
+    "name": "Universidad Autonoma España de Durango",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uaed.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uaemex.mx/"
+    ],
+    "name": "Universidad Autónoma del Estado de México",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uaemex.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uaem.mx/"
+    ],
+    "name": "Universidad Autónoma del Estado de Morelos",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uaem.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uaf.mx/"
+    ],
+    "name": "Universidad Autónoma de Fresnillo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uaf.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uag.mx/"
+    ],
+    "name": "Universidad Autónoma de Guadalajara",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uag.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uagro.mx/"
+    ],
+    "name": "Universidad Autónoma de Guerrero",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uagro.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ual.mx/"
+    ],
+    "name": "Universidad Autónoma de la Laguna",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ual.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uam.mx/"
+    ],
+    "name": "Universidad Autónoma Metropolitana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uam.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uane.edu.mx/"
+    ],
+    "name": "Universidad Autónoma del Noreste",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uane.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uanl.mx/"
+    ],
+    "name": "Universidad Autónoma de Nuevo León",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uanl.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uan.mx/"
+    ],
+    "name": "Universidad Autónoma de Nayarit",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uan.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uaq.mx/"
+    ],
+    "name": "Universidad Autónoma de Querétaro",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uaq.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uaslp.mx/"
+    ],
+    "name": "Universidad Autónoma de San Luis Potosí",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uaslp.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uas.mx/"
+    ],
+    "name": "Universidad Anáhuac del Sur",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uas.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uasnet.mx/"
+    ],
+    "name": "Universidad Autónoma de Sinaloa",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uasnet.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uat.mx/"
+    ],
+    "name": "Universidad Autónoma de Tamaulipas",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uat.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uatx.mx/"
+    ],
+    "name": "Universidad Autónoma de Tlaxcala",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uatx.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ubac.edu.mx/"
+    ],
+    "name": "Universidad del Bajío",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ubac.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ucem.edu.mx/"
+    ],
+    "name": "Universidad del Centro de México",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ucem.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uclah.edu.mx/"
+    ],
+    "name": "Universidad Cientifica Latinoamericana de Hidalgo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uclah.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ucol.mx/"
+    ],
+    "name": "Universidad de Colima",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ucol.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.udec.edu.mx/"
+    ],
+    "name": "Universidad de Celaya",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "udec.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.udeci.edu.mx/"
+    ],
+    "name": "Universidad de Cuautitlan Izcalli",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "udeci.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.udeh.edu.mx/"
+    ],
+    "name": "Universidad de Hermosillo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "udeh.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.udem.edu.mx/"
+    ],
+    "name": "Universidad de Monterrey",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "udem.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.udesanmiguel.edu.mx/"
+    ],
+    "name": "Universidad de San Miguel",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "udesanmiguel.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.udg.mx/"
+    ],
+    "name": "Universidad de Guadalajara",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "udg.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.udla.mx/"
+    ],
+    "name": "Universidad de las Américas",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "udla.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.udlap.mx/"
+    ],
+    "name": "Universidad de las Américas - Puebla",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "udlap.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.udo.mx/"
+    ],
+    "name": "Universidad de Occidente",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "udo.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.udv.edu.mx/"
+    ],
+    "name": "Universidad Don Vasco",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "udv.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ufm.edu.mx/"
+    ],
+    "name": "Universidad Franciscana de México",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ufm.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ufram.edu.mx/"
+    ],
+    "name": "Universidad Franco-Mexicana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ufram.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ugto.mx/"
+    ],
+    "name": "Universidad de Guanajuato",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ugto.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uia.mx/"
+    ],
+    "name": "Universidad Iberoamericana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uia.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uic.edu.mx/"
+    ],
+    "name": "Universidad Intercontinental",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uic.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uileon.edu.mx/"
+    ],
+    "name": "Universidad Insurgentes Plantel León",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uileon.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ujat.mx/"
+    ],
+    "name": "Universidad Juárez Autónoma de Tabasco",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ujat.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ujed.mx/"
+    ],
+    "name": "Universidad Juárez del Estado de Durango",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ujed.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ujsierra.mx/"
+    ],
+    "name": "Universidad Justo Sierra",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ujsierra.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ula.edu.mx/"
+    ],
+    "name": "Universidad Latinoamericana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ula.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ulsab.edu.mx/"
+    ],
+    "name": "Universidad Lasallista Benavente",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ulsab.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ulsac.edu.mx/"
+    ],
+    "name": "Universidad La Salle Cuernavaca",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ulsac.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ulsa.edu.mx/"
+    ],
+    "name": "Universidad La Salle",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ulsa.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.umad.edu.mx/"
+    ],
+    "name": "Universidad Madero",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "umad.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uman.edu.mx/"
+    ],
+    "name": "Universidad México Americana del Norte",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uman.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.umar.mx/"
+    ],
+    "name": "Universidad del Mar",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "umar.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.umich.mx/"
+    ],
+    "name": "Universidad Michoacana de San Nicolás de Hidalgo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "umich.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.umi.edu.mx/"
+    ],
+    "name": "Universidad México Internacional",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "umi.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.umla.edu.mx/"
+    ],
+    "name": "Universidad Metropolitana Latin Campus",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "umla.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.umm.edu.mx/"
+    ],
+    "name": "Universidad Metropolitana de Monterrey",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "umm.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.umne.edu.mx/"
+    ],
+    "name": "Universidad Mexicana del Noreste",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "umne.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.umontemorelos.edu.mx/"
+    ],
+    "name": "Universidad de Montemorelos",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "umontemorelos.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.umsa.edu.mx/"
+    ],
+    "name": "Universidad Mesoamericana de San Agustín",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "umsa.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unacar.mx/"
+    ],
+    "name": "Universidad Autónoma del Carmen",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unacar.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unach.mx/"
+    ],
+    "name": "Universidad Autónoma de Chiapas",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unach.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unam.mx/"
+    ],
+    "name": "Universidad Nacional Autónoma de México",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unam.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.un.edu.mx/"
+    ],
+    "name": "Universidad del Norte",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "un.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.une.edu.mx/"
+    ],
+    "name": "Universidad del Noreste",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "une.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unes.edu.mx/"
+    ],
+    "name": "Universidad España de Durango",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unes.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unicach.edu.mx/"
+    ],
+    "name": "Universidad de Ciencias y Artes de Chiapas",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unicach.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unica.edu.mx/"
+    ],
+    "name": "Universidad de Comunicación Avanzada",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unica.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unikino.mx/"
+    ],
+    "name": "Universidad Kino",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unikino.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unimayab.edu.mx/"
+    ],
+    "name": "Universidad del Mayab",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unimayab.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unimex.edu.mx/"
+    ],
+    "name": "Universidad Mexicana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unimex.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unitec.mx/"
+    ],
+    "name": "Universidad Tecnológica de México",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unitec.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.univa.mx/"
+    ],
+    "name": "Universidad del Valle de Atemajac",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "univa.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.univas.edu.mx/"
+    ],
+    "name": "Universidad Jóse Vasconcelos",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "univas.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.univchapultepec.edu.mx/"
+    ],
+    "name": "Universidad Chapultepéc",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "univchapultepec.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.universidaddeleon.edu.mx/"
+    ],
+    "name": "Universidad de León",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "universidaddeleon.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.universidadlaconcordia.edu.mx/"
+    ],
+    "name": "Universidad la Concordia",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "universidadlaconcordia.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.universidadmotolinia.edu.mx/"
+    ],
+    "name": "Universidad Motolinía del Pedegral",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "universidadmotolinia.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.universidadsalesiana.edu.mx/"
+    ],
+    "name": "Universidad Salesiana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "universidadsalesiana.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.univillarica.mx/"
+    ],
+    "name": "Universidad Autónoma de Veracruz Villa Rica",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "univillarica.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unla.edu.mx/"
+    ],
+    "name": "Universidad Latina",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unla.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.un.mx/"
+    ],
+    "name": "Universidad de Norteamerica",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "un.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uno.mx/"
+    ],
+    "name": "Universidad del Noroeste",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uno.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.unum.edu.mx/"
+    ],
+    "name": "Universidad Nuevo Mundo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "unum.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uom.edu.mx/"
+    ],
+    "name": "Universidad Obrera de Mexico",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uom.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.upaep.mx/"
+    ],
+    "name": "Universidad Popular Autonóma del Estado de Puebla",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "upaep.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.upiig.ipn.mx/"
+    ],
+    "name": "Instituto Politécnico Nacional, Campus Guanajuato",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "upiig.ipn.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.up.mx/"
+    ],
+    "name": "Universidad Panamericana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "up.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.upn.mx/"
+    ],
+    "name": "Universidad Pedagógica Nacional",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "upn.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uqroo.mx/"
+    ],
+    "name": "Universidad de Quintana Roo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uqroo.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.urmh.edu.mx/"
+    ],
+    "name": "Universidad Regional Miguel Hidalgo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "urmh.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ur.mx/"
+    ],
+    "name": "Universidad Regiomontana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ur.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.urse.edu.mx/"
+    ],
+    "name": "Universidad Regional del Sureste",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "urse.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.usac.edu.mx/"
+    ],
+    "name": "Universidad de la Sierra A.C.",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "usac.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.usb.edu.mx/"
+    ],
+    "name": "Universidad Simón Bolivar",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "usb.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.usf.com.mx/"
+    ],
+    "name": "Universidad Santa Fe",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "usf.com.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uson.mx/"
+    ],
+    "name": "Universidad de Sonora",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uson.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.utm.mx/"
+    ],
+    "name": "Universidad Tecnologica de la Mixteca",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "utm.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.utneza.edu.mx/"
+    ],
+    "name": "Universidad Tecnologica de Nezahualcoyotl",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "utneza.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uvb.edu.mx/"
+    ],
+    "name": "Universidad del Valle del Bravo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uvb.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uvg1.net/"
+    ],
+    "name": "Universidad Valle del Grijalva",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uvg1.net"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uvmnet.edu/"
+    ],
+    "name": "Universidad del Valle de México",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uvmnet.edu"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uv.mx/"
+    ],
+    "name": "Universidad Veracruzana",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uv.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uvt.edu.mx/"
+    ],
+    "name": "Universidad del Valle de Toluca",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uvt.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.uxac.edu.mx/"
+    ],
+    "name": "Universidad Xicotepetl",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "uxac.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.ver.ucc.mx/"
+    ],
+    "name": "Universidad Cristóbal Colón",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ver.ucc.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.westhill.edu.mx/"
+    ],
+    "name": "Westhill University",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "westhill.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://azc.uam.mx/"
+    ],
+    "name": "Universidad Autónoma Metropolitana - Azcapotzalco",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "azc.uam.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.itsoeh.edu.mx/"
+    ],
+    "name": "Instituto Tecnológico de Occidente del Estado de Hidalgo",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "itsoeh.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.jefferson.edu.mx/"
+    ],
+    "name": "Universidad Internacional Jefferson",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "jefferson.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "http://www.champagnat.edu.pe/"
+    ],
+    "name": "Universidad Marcelino Champagnat",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "champagnat.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.lamolina.edu.pe/"
+    ],
+    "name": "Universidad Nacional Agraria La Molina",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "lamolina.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.pucp.edu.pe/"
+    ],
+    "name": "Pontificia Universidad Católica del Perú",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "pucp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.sil.edu.pe/"
+    ],
+    "name": "Universidad San Ignacio de Loyola",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "sil.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.uancv.edu.pe/"
+    ],
+    "name": "Universidad Andina Nestor Caceares Velasquez",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "uancv.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.uandina.edu.pe/"
+    ],
+    "name": "Universidad Andina del Cusco",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "uandina.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.uap.edu.pe/"
+    ],
+    "name": "Universidad Alas Peruanas",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "uap.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.uch.edu.pe/"
+    ],
+    "name": "Universidad de Ciencias y Humanidades",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "uch.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.ucsm.edu.pe/"
+    ],
+    "name": "Universidad Católica de Santa María",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "ucsm.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.ucsur.edu.pe/"
+    ],
+    "name": "Universidad Cientifica del Sur",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "ucsur.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.ucv.edu.pe/"
+    ],
+    "name": "Universidad César Vallejo",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "ucv.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.udch.edu.pe/"
+    ],
+    "name": "Universidad Particular de Chiclayo",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "udch.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.udep.edu.pe/"
+    ],
+    "name": "Universidad de Piura",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "udep.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.udh.edu.pe/"
+    ],
+    "name": "Universidad de Huánuco",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "udh.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.udl.edu.pe/"
+    ],
+    "name": "Universidad de Lambayeque",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "udl.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.uigv.edu.pe/"
+    ],
+    "name": "Universidad Particular Inca Garcilaso de la Vega",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "uigv.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.uladech.edu.pe/"
+    ],
+    "name": "Universidad Los Angeles de Chimbote",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "uladech.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.ulima.edu.pe/"
+    ],
+    "name": "Universidad de Lima",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "ulima.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.umb.edu.pe/"
+    ],
+    "name": "Universidad Privada Juan Mejía Baca",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "umb.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unac.edu.pe/"
+    ],
+    "name": "Universidad Nacional del Callao",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unac.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unap.edu.pe/"
+    ],
+    "name": "Universidad Nacional del Altiplano",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unap.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unapiquitos.edu.pe/"
+    ],
+    "name": "Universidad Nacional de la Amazonía Peruana",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unapiquitos.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unasam.edu.pe/"
+    ],
+    "name": "Universidad Nacional Santiago Antúnez de Mayolo",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unasam.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unas.edu.pe/"
+    ],
+    "name": "Universidad Nacional Agraria de la Selva",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unas.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unc.edu.pe/"
+    ],
+    "name": "Universidad Nacional de Cajamarca",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unc.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.uncp.edu.pe/"
+    ],
+    "name": "Universidad Nacional del Centro del Perú",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "uncp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.undac.edu.pe/"
+    ],
+    "name": "Universidad Nacional Daniel Alcides Carrion",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "undac.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.une.edu.pe/"
+    ],
+    "name": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "une.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unfv.edu.pe/"
+    ],
+    "name": "Universidad Nacional Federico Villarreal",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unfv.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unheval.edu.pe/"
+    ],
+    "name": "Universidad Nacional Hermilio Valdizan",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unheval.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unica.edu.pe/"
+    ],
+    "name": "Universidad Nacional San Luis Gonzaga",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unica.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.uni.edu.pe/"
+    ],
+    "name": "Universidad Nacional de Ingeniería",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "uni.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unife.edu.pe/"
+    ],
+    "name": "Universidad Femenina del Sagrado Corazón",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unife.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unitru.edu.pe/"
+    ],
+    "name": "Universidad Nacional de La Libertad, Trujillo",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unitru.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unjbg.edu.pe/"
+    ],
+    "name": "Universidad Nacional Jorge Basadre Grohmann",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unjbg.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unjfsc.edu.pe/"
+    ],
+    "name": "Universidad Nacional José Faustino Sánchez Carrión",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unjfsc.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unmsm.edu.pe/"
+    ],
+    "name": "Universidad Nacional Mayor de San Marcos",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unmsm.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unp.edu.pe/"
+    ],
+    "name": "Universidad Nacional de Piura",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unprg.edu.pe/"
+    ],
+    "name": "Universidad Nacional Pedro Ruíz Gallo",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unprg.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unsaac.edu.pe/"
+    ],
+    "name": "Universidad Nacional de San Antonio Abad",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unsaac.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unsa.edu.pe/"
+    ],
+    "name": "Universidad Nacional de San Agustin",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unsa.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unsch.edu.pe/"
+    ],
+    "name": "Universidad Nacional de San Cristóbal de Huamanga",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unsch.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.uns.edu.pe/"
+    ],
+    "name": "Universidad Nacional de Santa - Chimbote",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "uns.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unsm.edu.pe/"
+    ],
+    "name": "Universidad Nacional de San Martín",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unsm.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.untumbes.edu.pe/"
+    ],
+    "name": "Universidad Nacional de Tumbes",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "untumbes.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.unu.edu.pe/"
+    ],
+    "name": "Universidad Nacional de Ucayali",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "unu.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.upao.edu.pe/"
+    ],
+    "name": "Universidad Privada Antenor Orrego",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "upao.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.upc.edu.pe/"
+    ],
+    "name": "Universidad Peruana de Ciencias Aplicadas",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "upc.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.upch.edu.pe/"
+    ],
+    "name": "Universidad Peruana Cayetano Heredia",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "upch.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.upci.edu.pe/"
+    ],
+    "name": "Universidad Peruana de Ciencias e Informática",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "upci.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.up.edu.pe/"
+    ],
+    "name": "Universidad del Pacifico",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "up.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.upeu.edu.pe/"
+    ],
+    "name": "Universidad Peruana Union",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "upeu.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.upla.edu.pe/"
+    ],
+    "name": "Universidad Privada Los Andes",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "upla.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.upnorte.edu.pe/"
+    ],
+    "name": "Universidad Privada del Norte",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "upnorte.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.upsb.edu.pe/"
+    ],
+    "name": "Universidad Privada Sergio Bernales",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "upsb.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.upsjb.edu.pe/"
+    ],
+    "name": "Universidad Privada San Juan Bautista",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "upsjb.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.upt.edu.pe/"
+    ],
+    "name": "Universidad Privada de Tacna",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "upt.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.urp.edu.pe/"
+    ],
+    "name": "Universidad Ricardo Palma",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "urp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.usanpedro.edu.pe/"
+    ],
+    "name": "Universidad Privada San Pedro",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "usanpedro.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.usat.edu.pe/"
+    ],
+    "name": "Universidad Católica Santo Toribio de Mogrovejo",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "usat.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.usmp.edu.pe/"
+    ],
+    "name": "Universidad San Martin de Porres",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "usmp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.usp.edu.pe/"
+    ],
+    "name": "Universidad San Pablo",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "usp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.uss.edu.pe/"
+    ],
+    "name": "Universidad Señor de Sipán",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "uss.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.utea.edu.pe/"
+    ],
+    "name": "Universidad Tecnológica de los Andes de Apurímac",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "utea.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.utp.edu.pe/"
+    ],
+    "name": "Universidad Tecnológica del Peru",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "utp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.uwiener.edu.pe/"
+    ],
+    "name": "Universidad Norbert Wiener",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "uwiener.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "web_pages": [
+      "http://www.barcelonagse.eu/"
+    ],
+    "name": "Barcelona Graduate School of Economics",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "barcelonagse.eu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.bircham.edu/"
+    ],
+    "name": "Bircham International University",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "bircham.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ceu.es/"
+    ],
+    "name": "Universidad de San Pablo CEU",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ceu.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.deusto.es/"
+    ],
+    "name": "Universidad de Deusto",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "deusto.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ehu.es/"
+    ],
+    "name": "Universidad del País Vasco",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ehu.es",
+      "ehu.eus"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.esic.es/"
+    ],
+    "name": "Escuela Superior de Gestion Comercial y Marketing (ESIC)",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "esic.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.global-business-school.org/"
+    ],
+    "name": "Global Business School Barcelona",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "global-business-school.org"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ie.edu/"
+    ],
+    "name": "IE University",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ie.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.iuse.edu.es/"
+    ],
+    "name": "International University of Southern Europe",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "iuse.edu.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.lasalleuniversities.net/"
+    ],
+    "name": "La Salle Universities - International Programmes",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "lasalleuniversities.net"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.muni.es/"
+    ],
+    "name": "Mondragon Univertsitatea",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "muni.es",
+      "mundragon.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.salleurl.edu/"
+    ],
+    "name": "La Salle - Universitat Ramon Llull",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "salleurl.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.schillermadrid.edu/"
+    ],
+    "name": "Schiller International University, Madrid",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "schillermadrid.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uab.es/"
+    ],
+    "name": "Universitat Autónoma de Barcelona",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uab.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ua.es/"
+    ],
+    "name": "Universidad de Alicante",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ua.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uah.es/"
+    ],
+    "name": "Universidad de Alcalá de Henares",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uah.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ualm.es/"
+    ],
+    "name": "Universidad de Almería",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ualm.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uam.es/"
+    ],
+    "name": "Universidad Autónoma de Madrid",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uam.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uax.es/"
+    ],
+    "name": "Universidad Alfonso X El Sabio",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uax.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ub.es/"
+    ],
+    "name": "Universitat de Barcelona",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ub.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ubu.es/"
+    ],
+    "name": "Universidad de Burgos",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ubu.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uc3m.es/"
+    ],
+    "name": "Universidad Carlos III de Madrid",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uc3m.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uca.es/"
+    ],
+    "name": "Universidad de Cádiz",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uca.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ucam.edu/"
+    ],
+    "name": "Universidad Católica San Antonio",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ucam.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ucavila.es/"
+    ],
+    "name": "Universidad Católica de Ávila",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ucavila.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uchceu.es/"
+    ],
+    "name": "Universidad Cardenal Herrera-CEU",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uchceu.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uclm.es/"
+    ],
+    "name": "Universidad de Castilla La Mancha",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uclm.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ucm.es/"
+    ],
+    "name": "Universidad Complutense de Madrid",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ucm.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uco.es/"
+    ],
+    "name": "Universidad de Córdoba",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uco.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ucv.es/"
+    ],
+    "name": "Universidad Católica de Valencia",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ucv.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.udc.gal/",
+      "https://www.udc.es/"
+    ],
+    "name": "Universidade da Coruña",
+    "alpha_two_code": "ES",
+    "state-province": "A Coruña",
+    "domains": [
+      "udc.gal",
+      "udc.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.udg.es/"
+    ],
+    "name": "Universidad de Gerona",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "udg.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.udl.es/"
+    ],
+    "name": "Universitat de Lleida",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "udl.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uem.es/"
+    ],
+    "name": "Universidad Europea de Madrid",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uem.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ufv.es/"
+    ],
+    "name": "Universidad Francisco de Vitoria",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ufv.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ugr.es/"
+    ],
+    "name": "Universidad de Granada",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ugr.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uhu.es/"
+    ],
+    "name": "Universidad de Huelva",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uhu.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uia.es/"
+    ],
+    "name": "Universidad Internacional de Andalucía",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uia.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uib.es/"
+    ],
+    "name": "Universitat de les Illes Balears",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uib.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uic.es/"
+    ],
+    "name": "Universitat Internacional de Catalunya",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uic.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uimp.es/"
+    ],
+    "name": "Universidad Internacional Menéndez Pelayo",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uimp.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ujaen.es/"
+    ],
+    "name": "Universidad de Jaén",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ujaen.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uji.es/"
+    ],
+    "name": "Universitat Jaume I de Castellón",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uji.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ull.es/"
+    ],
+    "name": "Universidad de La Laguna",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ull.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.ulpgc.es/"
+    ],
+    "name": "Universidad de Las Palmas de Gran Canaria",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "ulpgc.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uma.es/"
+    ],
+    "name": "Universidad de Málaga",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uma.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.um.es/"
+    ],
+    "name": "Universidad de Murcia",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "um.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.umh.es/"
+    ],
+    "name": "Universidad Miguel Hernández de Elche",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "umh.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.unavarra.es/"
+    ],
+    "name": "Universidad Pública de Navarra",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "unavarra.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.unav.es/"
+    ],
+    "name": "Universidad de Navarra",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "unav.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uned.es/"
+    ],
+    "name": "Universidad Nacional de Educación a Distancia",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uned.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.unex.es/"
+    ],
+    "name": "Universidad de Extremadura",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "unex.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uniaam.uia.es/"
+    ],
+    "name": "Universidad Internacional de Andalucía, Sede Antonio Machado de Baeza",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uniaam.uia.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.uloyola.es/"
+    ],
+    "name": "Universidad Loyola Andalucía",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uloyola.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uniactiva.com/"
+    ],
+    "name": "Universidad Abierta Interactiva",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uniactiva.com"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uniara.uia.es/"
+    ],
+    "name": "Universidad Internacional de Andalucía, Sede La Rábida",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uniara.uia.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.unican.es/"
+    ],
+    "name": "Universidad de Cantabria",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "unican.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.unileon.es/"
+    ],
+    "name": "Universidad de León",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "unileon.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uniovi.es/"
+    ],
+    "name": "Universidad de Oviedo",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uniovi.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.unirioja.es/"
+    ],
+    "name": "Universidad de La Rioja",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "unirioja.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.universidadatlantico.org/"
+    ],
+    "name": "Iniciativa Universidad del Atlantico",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "universidadatlantico.org"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.unizar.es/"
+    ],
+    "name": "Universidad de Zaragoza",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "unizar.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.unnet.es/"
+    ],
+    "name": "Universidad Antonio de Nebrija",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "unnet.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uoc.edu/"
+    ],
+    "name": "Universitat Oberta de Catalunya",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uoc.es",
+      "uoc.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.upc.edu/"
+    ],
+    "name": "Universidad Politécnica de Cataluna",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "upc.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.upco.es/"
+    ],
+    "name": "Universidad Pontificia Comillas",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "upco.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.upct.es/"
+    ],
+    "name": "Universidad Politécnica de Cartagena",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "upct.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.upf.es/",
+      "https://www.upf.edu/"
+    ],
+    "name": "Universitat Pompeu Fabra",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "upf.es",
+      "upf.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.upm.es/"
+    ],
+    "name": "Universidad Politécnica de Madrid",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "upm.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.upo.es/"
+    ],
+    "name": "Universidad Pablo de Olavide",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "upo.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.upsa.es/"
+    ],
+    "name": "Universidad Pontificia de Salamanca",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "upsa.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.upv.es/"
+    ],
+    "name": "Universidad Politécnica de Valencia",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "upv.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.urjc.es/"
+    ],
+    "name": "Universidad Rey Juan Carlos",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "urjc.es",
+      "gsyc.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.url.es/"
+    ],
+    "name": "Universitat Ramon Llull",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "url.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.urv.es/"
+    ],
+    "name": "Universitat Rovira I Virgili Tarragona",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "urv.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.usal.es/"
+    ],
+    "name": "Universidad de Salamanca",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "usal.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.usc.gal/"
+    ],
+    "name": "Universidade de Santiago de Compostela",
+    "alpha_two_code": "ES",
+    "state-province": "A Coruña",
+    "domains": [
+      "usc.es",
+      "usc.gal"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.us.es/"
+    ],
+    "name": "Universidad de Sevilla",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "us.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uva.es/"
+    ],
+    "name": "Universidad de Valladolid",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uva.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uv.es/"
+    ],
+    "name": "Universidad de Valencia",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uv.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.uvic.es/"
+    ],
+    "name": "Universitat de Vic",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uvic.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.uvigo.gal/"
+    ],
+    "name": "Universidade de Vigo",
+    "alpha_two_code": "ES",
+    "state-province": "Pontevedra",
+    "domains": [
+      "uvigo.gal",
+      "uvigo.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "http://www.villanueva.edu/"
+    ],
+    "name": "Centro Universitario Villanueva",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "villanueva.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.ui1.es/"
+    ],
+    "name": "Universidad Internacional Isabel I",
+    "alpha_two_code": "ES",
+    "state-province": "Castilla la mancha",
+    "domains": [
+      "ui1.es",
+      "alumnos.ui1.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.enae.es/"
+    ],
+    "name": "ENAE Business School",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "enae.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://viu.es/"
+    ],
+    "name": "Universidad Internacional de Valencia",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "viu.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.esade.edu/"
+    ],
+    "name": "ESADE Business & Law School",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "esade.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.iese.edu/"
+    ],
+    "name": "IESE Business School",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "iese.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "alpha_two_code": "ES",
+    "country": "Spain",
+    "state-province": null,
+    "domains": [
+      "eada.edu"
+    ],
+    "name": "Eada Business School Barcelona",
+    "web_pages": [
+      "https://www.eada.edu/"
+    ]
+  },
+  {
+    "web_pages": [
+      "https://web.ub.edu/"
+    ],
+    "name": "University of Barcelona",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "alumnes.ub.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://udg.edu/"
+    ],
+    "name": "University of Girona",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "campus.udg.edu"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://ciqa.edu.mx/"
+    ],
+    "name": "Centro de Investigación en Química Aplicada",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "ciqa.edu.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://lamar.mx/"
+    ],
+    "name": "Universidad Guadalajara Lamar",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "lamar.org.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://www.uaysen.cl/"
+    ],
+    "name": "Universidad de Aysen",
+    "alpha_two_code": "CL",
+    "state-province": null,
+    "domains": [
+      "uaysen.cl"
+    ],
+    "country": "Chile"
+  },
+  {
+    "web_pages": [
+      "https://www.floridauniversitaria.es/"
+    ],
+    "name": "Florida Universitaria",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "floridauniversitaria.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://universidadean.edu.co/"
+    ],
+    "name": "Universidad EAN",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "universidadean.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://tecmilenio.mx/"
+    ],
+    "name": "Universidad Tecmilenio",
+    "alpha_two_code": "MX",
+    "state-province": null,
+    "domains": [
+      "tecmilenio.mx"
+    ],
+    "country": "Mexico"
+  },
+  {
+    "web_pages": [
+      "https://uf3ceu.es/"
+    ],
+    "name": "Universidad CEU Fernando III",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uf3ceu.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.usj.es/"
+    ],
+    "name": "Universidad San Jorge",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "usj.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://hesperides.edu.es/"
+    ],
+    "name": "Universidad de las Hespérides",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "hesperides.edu.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.uneatlantico.es/"
+    ],
+    "name": "Universidad Europea del Atlántico",
+    "alpha_two_code": "ES",
+    "state-province": null,
+    "domains": [
+      "uneatlantico.es"
+    ],
+    "country": "Spain"
+  },
+  {
+    "web_pages": [
+      "https://www.colmayor.edu.co/"
+    ],
+    "name": "Colegio Mayor de Antioquia",
+    "alpha_two_code": "CO",
+    "state-province": null,
+    "domains": [
+      "colmayor.edu.co"
+    ],
+    "country": "Colombia"
+  },
+  {
+    "web_pages": [
+      "https://utec.edu.pe/"
+    ],
+    "name": "Universidad de Ingeniería y Tecnología",
+    "alpha_two_code": "PE",
+    "state-province": null,
+    "domains": [
+      "utec.edu.pe"
+    ],
+    "country": "Peru"
+  }
+]

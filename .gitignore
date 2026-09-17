@@ -1,0 +1,12 @@
+node_modules/
+docs/
+dist/
+.angular/
+out-tsc/
+.env
+.env.*
+!.env.example
+.DS_Store
+playwright-report/
+test-results/
+*.log

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "bogota",
+    "name": "Bogotá",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 4.711,
+    "lon": -74.0721
+  },
+  {
+    "id": "medellin",
+    "name": "Medellín",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 6.2442,
+    "lon": -75.5812
+  },
+  {
+    "id": "cali",
+    "name": "Cali",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 3.4516,
+    "lon": -76.532
+  },
+  {
+    "id": "villavicencio",
+    "name": "Villavicencio",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 4.142,
+    "lon": -73.6266
+  },
+  {
+    "id": "barranquilla",
+    "name": "Barranquilla",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 10.9685,
+    "lon": -74.7813
+  },
+  {
+    "id": "bucaramanga",
+    "name": "Bucaramanga",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 7.1193,
+    "lon": -73.1227
+  },
+  {
+    "id": "cartagena",
+    "name": "Cartagena",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 10.391,
+    "lon": -75.4794
+  },
+  {
+    "id": "manizales",
+    "name": "Manizales",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 5.0689,
+    "lon": -75.5174
+  },
+  {
+    "id": "pereira",
+    "name": "Pereira",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 4.8143,
+    "lon": -75.6946
+  },
+  {
+    "id": "tunja",
+    "name": "Tunja",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 5.5353,
+    "lon": -73.3678
+  },
+  {
+    "id": "popayan",
+    "name": "Popayán",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 2.4448,
+    "lon": -76.6147
+  },
+  {
+    "id": "pasto",
+    "name": "Pasto",
+    "country": "Colombia",
+    "code": "CO",
+    "lat": 1.2136,
+    "lon": -77.2811
+  },
+  {
+    "id": "madrid",
+    "name": "Madrid",
+    "country": "Spain",
+    "code": "ES",
+    "lat": 40.4168,
+    "lon": -3.7038
+  },
+  {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "country": "Spain",
+    "code": "ES",
+    "lat": 41.3874,
+    "lon": 2.1686
+  },
+  {
+    "id": "mexico",
+    "name": "Ciudad de México",
+    "country": "Mexico",
+    "code": "MX",
+    "lat": 19.4326,
+    "lon": -99.1332
+  },
+  {
+    "id": "monterrey",
+    "name": "Monterrey",
+    "country": "Mexico",
+    "code": "MX",
+    "lat": 25.6866,
+    "lon": -100.3161
+  },
+  {
+    "id": "buenos-aires",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "code": "AR",
+    "lat": -34.6037,
+    "lon": -58.3816
+  },
+  {
+    "id": "cordoba",
+    "name": "Córdoba",
+    "country": "Argentina",
+    "code": "AR",
+    "lat": -31.4201,
+    "lon": -64.1888
+  },
+  {
+    "id": "santiago",
+    "name": "Santiago",
+    "country": "Chile",
+    "code": "CL",
+    "lat": -33.4489,
+    "lon": -70.6693
+  },
+  {
+    "id": "lima",
+    "name": "Lima",
+    "country": "Peru",
+    "code": "PE",
+    "lat": -12.0464,
+    "lon": -77.0428
+  }
+]

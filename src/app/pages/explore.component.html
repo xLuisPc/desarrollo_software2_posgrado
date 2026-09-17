@@ -1,0 +1,211 @@
+<div class="page-intro">
+  <div>
+    <span class="eyebrow">UN MUNDO DE POSIBILIDADES</span>
+    <h1>Encuentra tu próximo destino<span class="text-green">.</span></h1>
+    <p>La universidad que imaginas, en una ciudad que te inspire.</p>
+  </div>
+  <span class="edition">EDICIÓN EXPLORADORES <span>↗</span></span>
+</div>
+<section class="hero">
+  <div class="hero-copy">
+    <span class="hero-label"><span></span> TU FUTURO EMPIEZA CON CURIOSIDAD</span>
+    <h2>El mundo es tu<br />próximo <em>campus.</em></h2>
+    <p>
+      Descubre universidades, encuentra tu lugar<br class="desktop-break" />
+      y deja que el clima acompañe tus planes.
+    </p>
+    <a href="#search-form" class="hero-link">Empieza a explorar <app-icon name="arrow" /></a>
+  </div>
+  <div class="hero-illustration" aria-hidden="true">
+    <img src="campus-landscape.svg" alt="" /><span class="illustration-coordinate"
+      >4°42′ N &nbsp; 74°04′ W</span
+    ><span class="illustration-badge"
+      ><span class="tiny-compass">✳</span> CADA DESTINO, UNA HISTORIA</span
+    >
+  </div>
+</section>
+<div class="discovery-strip">
+  <span><app-icon name="building" /> Universidades sin fronteras</span><i></i
+  ><span><app-icon name="sun" /> El clima de tu destino</span><i></i
+  ><span><app-icon name="heart" /> Tus favoritas, en un lugar</span>
+</div>
+<div class="explore-layout">
+  <section class="catalog">
+    <div class="section-title">
+      <div>
+        <span class="eyebrow">ENCUENTRA TU LUGAR</span>
+        <h2>Explora universidades</h2>
+      </div>
+      <span class="small-label">06 países para descubrir</span>
+    </div>
+    <form class="search-form" id="search-form" (ngSubmit)="search()">
+      <label class="search-field"
+        ><app-icon name="search" /><input
+          aria-label="Buscar universidad"
+          placeholder="Nombre de universidad o dominio…"
+          [ngModel]="query()"
+          (ngModelChange)="changeQuery($event)"
+          name="search" /></label
+      ><label class="country-field"
+        ><app-icon name="globe" /><select
+          aria-label="País"
+          [ngModel]="country()"
+          (ngModelChange)="changeCountry($event)"
+          name="country"
+        >
+          @if (config(); as c) {
+            @for (option of c.countries; track option.name) {
+              <option [value]="option.name">{{ option.label }}</option>
+            }
+          } @else {
+            <option value="Colombia">Colombia</option>
+          }
+        </select></label
+      ><button type="submit" class="button primary search-button" aria-label="Buscar">
+        <app-icon name="arrow" />
+      </button>
+    </form>
+    <div class="city-chips" aria-label="Filtrar por sede sugerida">
+      <button [class.chip-active]="!city()" (click)="changeCity('')">Todas las ciudades</button>
+      @for (c of availableCities().slice(0, 4); track c.id) {
+        <button [class.chip-active]="city() === c.id" (click)="changeCity(c.id)">
+          {{ c.name }}
+        </button>
+      }
+    </div>
+    @if (availableCities().length > 4) {
+      <label class="extra-city-label"
+        >Más ciudades
+        <select aria-label="Más ciudades" [ngModel]="city()" (ngModelChange)="changeCity($event)">
+          <option value="">Todas las ciudades</option>
+          @for (c of availableCities(); track c.id) {
+            <option [value]="c.id">{{ c.name }}</option>
+          }
+        </select></label
+      >
+    }
+    <div class="results-toolbar" id="results-heading">
+      <span aria-live="polite">
+        @if (loading()) {
+          Buscando destinos…
+        } @else {
+          <strong>{{ filtered().length }}</strong> universidades
+          @if (selectedCityName()) {
+            en {{ selectedCityName() }}
+          }
+        }
+      </span>
+      <div>
+        <select
+          aria-label="Ordenar universidades"
+          [ngModel]="sort()"
+          (ngModelChange)="sort.set($event); page.set(1)"
+        >
+          <option value="name">Nombre: A — Z</option>
+          <option value="city">Ciudad: A — Z</option></select
+        ><button
+          class="icon-button view-button"
+          [class.view-active]="layout() === 'grid'"
+          aria-label="Vista de tarjetas"
+          [attr.aria-pressed]="layout() === 'grid'"
+          (click)="layout.set('grid')"
+        >
+          <app-icon name="grid" /></button
+        ><button
+          class="icon-button view-button"
+          [class.view-active]="layout() === 'list'"
+          aria-label="Vista de lista"
+          [attr.aria-pressed]="layout() === 'list'"
+          (click)="layout.set('list')"
+        >
+          <app-icon name="list" />
+        </button>
+      </div>
+    </div>
+    @if (response(); as data) {
+      <div class="source-note" [class.snapshot]="data.source === 'snapshot'">
+        <span class="status-dot" [class.demo-dot]="data.source === 'snapshot'"></span
+        >{{
+          data.source === 'live'
+            ? 'Conectado a Universities API · Hipo'
+            : 'Catálogo de respaldo · Hipo'
+        }}
+        @if (data.source === 'snapshot') {
+          <button (click)="load()">Reintentar API</button>
+        }
+      </div>
+      @if (data.message) {
+        <p class="source-explanation">{{ data.message }}</p>
+      }
+    }
+    @if (loading()) {
+      <div class="cards-grid" role="status" aria-label="Cargando universidades">
+        @for (i of [1, 2, 3, 4]; track i) {
+          <div class="skeleton-card">
+            <div></div>
+            <span></span><span></span>
+          </div>
+        }
+      </div>
+    } @else if (error()) {
+      <div class="empty-state" role="alert">
+        <app-icon name="cloud" />
+        <h3>No pudimos abrir este destino</h3>
+        <p>{{ error() }}</p>
+        <button class="button primary" (click)="retry()">Reintentar conexión</button>
+      </div>
+    } @else if (!filtered().length) {
+      <div class="empty-state">
+        <app-icon name="search" />
+        <h3>Aún hay mucho por descubrir</h3>
+        <p>
+          No encontramos universidades con estos filtros. Las ciudades solo filtran las sedes del
+          catálogo local.
+        </p>
+        <button class="button secondary" (click)="reset()">Limpiar filtros</button>
+      </div>
+    } @else {
+      <div class="cards-grid" [class.list-layout]="layout() === 'list'">
+        @for (u of visible(); track u.id) {
+          <app-university-card [university]="u" />
+        }
+      </div>
+      <div class="pagination">
+        <span>Página {{ page() }} de {{ totalPages() }}</span>
+        <div>
+          <button
+            class="icon-button"
+            aria-label="Página anterior"
+            [disabled]="page() === 1"
+            (click)="changePage(-1)"
+          >
+            <app-icon name="back" /></button
+          ><span>{{ page() }}</span
+          ><button
+            class="icon-button"
+            aria-label="Página siguiente"
+            [disabled]="page() === totalPages()"
+            (click)="changePage(1)"
+          >
+            <app-icon name="arrow" />
+          </button>
+        </div>
+      </div>
+    }
+    <p class="catalog-note">
+      <app-icon name="info" /> Las ciudades son sugerencias de nuestro catálogo local. Una
+      universidad puede tener varias sedes.
+    </p>
+  </section>
+  <aside class="discovery-aside">
+    @if (config(); as c) {
+      <app-weather-panel [cities]="c.cities" [country]="country()" [initialCity]="city()" />
+    }
+    <div class="explorer-note">
+      <span>NOTA DE EXPLORADOR</span>
+      <h3>Elegir dónde estudiar<br />también es elegir<br /><em>dónde vivir.</em></h3>
+      <p>Guarda lo que te inspire. Compara tus opciones. Tu próximo paso empieza aquí.</p>
+      <span class="note-flower" aria-hidden="true">✳</span>
+    </div>
+  </aside>
+</div>
